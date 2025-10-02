@@ -8,3 +8,5 @@ IRkernel::installspec(user = FALSE)
 install.packages("skimr")
 
 install.packages("Rtsne")
+
+install.packages("ggrepel")
