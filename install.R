@@ -9,4 +9,8 @@ install.packages("skimr")
 
 install.packages("Rtsne")
 
+<<<<<<< Updated upstream
 install.packages("ggrepel")
+=======
+install.packages("ggrepel") 
+>>>>>>> Stashed changes
