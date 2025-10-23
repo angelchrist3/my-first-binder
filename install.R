@@ -16,7 +16,5 @@ install.packages("ggrepel")
 >>>>>>> Stashed changes
 
 install.packages("R.matlab")
-library(R.matlab)
 
 install.packages("pracma")
-library(pracma)
