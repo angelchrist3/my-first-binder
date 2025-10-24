@@ -15,6 +15,13 @@ install.packages("ggrepel")
 install.packages("ggrepel") 
 >>>>>>> Stashed changes
 
+<<<<<<< HEAD
 install.packages("R.matlab")
 
 install.packages("pracma")
+=======
+install.packages("pracma")
+
+install.packages("matlab")
+
+>>>>>>> 061662f (updates)
