@@ -25,3 +25,5 @@ install.packages("pracma")
 install.packages("matlab")
 
 >>>>>>> 061662f (updates)
+
+install.packages("glmnet")
