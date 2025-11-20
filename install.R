@@ -27,3 +27,13 @@ install.packages("matlab")
 >>>>>>> 061662f (updates)
 
 install.packages("glmnet")
+
+install.packages(c(
+  "httr",
+  "jsonlite",
+  "tokenizers",
+  "stringr",
+  "R6",
+  "digest",
+  "viridis"
+))
